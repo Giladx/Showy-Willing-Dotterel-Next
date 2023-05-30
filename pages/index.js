@@ -6,8 +6,8 @@ const Home = (props) => {
     <>
       <div className="home-container">
         <Head>
-          <title>Showy Willing Dotterel</title>
-          <meta property="og:title" content="Showy Willing Dotterel" />
+          <title>smartlockeys.com</title>
+          <meta property="og:title" content="smartlockeys.com" />
         </Head>
         <div className="home-container1">
           <h1 className="home-text">
